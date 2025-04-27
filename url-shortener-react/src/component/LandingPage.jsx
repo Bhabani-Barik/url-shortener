@@ -1,4 +1,5 @@
 import React from 'react'
+import Card from './Card';
 const LandingPage = () => {
 
     let desc =   "Generate short, memorable links with ease using Linklytics’s intuitive interface. Share URLs effortlessly across platforms. Optimize your sharing strategy with Linklytics. Track clicks and manage your links seamlessly to enhance your online presence. Generate short, memorable links with ease using Linklytics’s intuitive interface. Share URLs effortlessly across platforms.";
@@ -41,6 +42,24 @@ const LandingPage = () => {
         <p className="text-slate-800 font-roboto font-bold lg:w-[60%]  md:w-[70%] sm:w-[80%] mx-auto text-3xl text-center">
             Trusted by individuals and teams at the world best companies {" "}
         </p>
+        <div className="pt-4 pb-7 grid lg:gap-7 gap-4 xl:grid-cols-4  lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 mt-4">
+          <Card
+            title="Simple URL Shortening"
+            desc="Experience the ease of creating short, memorable URLs in just a few clicks. Our intuitive interface and quick setup process ensure you can start shortening URLs without any hassle."
+          />
+          <Card
+            title="Powerful Analytics"
+            desc="Gain insights into your link performance with our comprehensive analytics dashboard. Track clicks, geographical data, and referral sources to optimize your marketing strategies."
+          />
+          <Card
+            title="Enhanced Security"
+            desc="Rest assured with our robust security measures. All shortened URLs are protected with advanced encryption, ensuring your data remains safe and secure."
+          />
+          <Card
+            title="Fast and Reliable"
+            desc="Enjoy lightning-fast redirects and high uptime with our reliable infrastructure. Your shortened URLs will always be available and responsive, ensuring a seamless experience for your users."
+          />
+        </div>
        </div>
 
 
