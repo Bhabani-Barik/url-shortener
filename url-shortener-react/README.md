@@ -25,3 +25,21 @@ If you are developing a production application, we recommend using TypeScript wi
                 NPM: https://www.npmjs.com/package/@tanstack/react-query
 
                 npm install react-query
+
+
+- MUI - https://mui.com/material-ui/getting-started/
+    
+    npm install @mui/material @emotion/react @emotion/styled
+
+-Day.js:  https://day.js.org/docs/en/installation/node-js
+
+    npm install dayjs
+
+- react-copy-to-clipboard: https://www.npmjs.com/package/react-copy-to-clipboard
+
+        npm install --save react-copy-to-clipboard  -> it's support upto react 18 only.
+
+- React-Loader-Spinner: https://mhnpd.github.io/react-loader-spinner/
+                    -> npm install react-loader-spinner --save
+
+                    -> it's support upto react 18 only.
