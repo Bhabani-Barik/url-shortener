@@ -15,3 +15,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - react-router-dom -> dynamic routing : npm install react-router-dom / npm i react-router-dom [https://www.npmjs.com/package/react-router-dom]
 - React-Icon: npm install @react-icons/all-files --save [https://react-icons.github.io/react-icons/search/#q=RxCross2,%20IoIosMenu]
 - Motion - npm install motion [https://motion.dev/]
+- React Hook Form : npm install react-hook-form  [https://react-hook-form.com/]
+- 
