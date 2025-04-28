@@ -16,4 +16,12 @@ If you are developing a production application, we recommend using TypeScript wi
 - React-Icon: npm install @react-icons/all-files --save [https://react-icons.github.io/react-icons/search/#q=RxCross2,%20IoIosMenu]
 - Motion - npm install motion [https://motion.dev/]
 - React Hook Form : npm install react-hook-form  [https://react-hook-form.com/]
-- 
+- AXIOS - https://axios-http.com/ - npm install axios
+- React-Hot-Toast: npm install react-hot-toast - https://react-hot-toast.com/
+
+- npm install react-chartjs-2 chart.js
+
+- React Query: https://tanstack.com/query/latest 
+                NPM: https://www.npmjs.com/package/@tanstack/react-query
+
+                npm install react-query
